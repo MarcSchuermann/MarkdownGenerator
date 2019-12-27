@@ -12,7 +12,7 @@
     <copyright>Copyright 2019</copyright>
     <tags>markdown documentation</tags>
     <dependencies>
-      <group targetFramework=".NETFramework4.5"/>
+      <group targetFramework=".NETFramework4.5.2"/>
     </dependencies>
   </metadata>
 </package>
