@@ -43,6 +43,7 @@ steps:
     command: 'pack'
     packagesToPack: '**/*.csproj'
     versioningScheme: 'off'
+    owners: 'Marc Schuermann'
 
 - task: PublishBuildArtifacts@1
   inputs:
