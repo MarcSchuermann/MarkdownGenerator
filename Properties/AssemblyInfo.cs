@@ -6,7 +6,7 @@ using System.Runtime.InteropServices;
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
 [assembly: AssemblyTitle("MarkdownWikiGenerator")]
-[assembly: AssemblyDescription("Generate markdown from C# binary & xml document for GitHub Wiki.")]
+[assembly: AssemblyDescription("Generate markdown from C# binary and xml document for GitHub Wiki.")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("Marc Schuermann")]
 [assembly: AssemblyProduct("MarkdownWikiGenerator")]
